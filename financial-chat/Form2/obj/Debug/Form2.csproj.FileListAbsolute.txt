@@ -1,0 +1,2 @@
+D:\GithubNew\17\financial-chat\chat\1\financial-chat\Form2\obj\Debug\Form2.csproj.AssemblyReference.cache
+D:\GithubNew\17\financial-chat\chat\1\financial-chat\Form2\obj\Debug\Form2.csproj.CoreCompileInputs.cache
